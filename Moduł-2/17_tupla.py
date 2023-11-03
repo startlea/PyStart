@@ -1,4 +1,4 @@
-list = tuple(range(12, 1025))
+list = tuple(range(12, 1024, 6))
 #average = sum(grades) / len(grades)
 
 for tuple in list:

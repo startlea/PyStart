@@ -1,4 +1,4 @@
-print("Give me your grades: ")
+print("Give me your 5 grades: ")
 grades = int(input()), int(input()), int(input()), int(input()), int(input()),
 grades_sort = sorted(grades, reverse=True)
 print(f'Your grades are: {grades_sort}')
